@@ -1,0 +1,10 @@
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\bin\Debug\netcoreapp3.1\Modelo.deps.json
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.AssemblyReference.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfoInputs.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfo.cs
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.CoreCompileInputs.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.dll
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Aduana\Aduana argentina\Modelo\obj\Debug\netcoreapp3.1\Modelo.pdb
